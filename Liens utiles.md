@@ -5,3 +5,5 @@ Des infos sur le capteur de poids :
 <li>https://www.youtube.com/watch?feature=player_embedded&v=fPzUtzFJFus#!</li>
 <li>https://www.youtube.com/watch?v=nGUpzwEa4vg</li>
 </ul>
+<br>
+Amplificateur pour le capteur de poids : https://www.banggood.com/HX711-Weighing-Pressure-Sensor-24-Bit-Precision-AD-Module-For-Arduino-p-918228.html?p=2K090270884220140865&cur_warehouse=CN
