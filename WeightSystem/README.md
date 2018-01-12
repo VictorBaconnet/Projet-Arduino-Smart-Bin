@@ -6,4 +6,4 @@ Contrainte : Le materiau utilisé doit être assez rigide pour que le WeightSyst
 Il doit avoir un poids limité pour ne pas dépasser la masse limite accepté par le load cell.
 Le bois semble être un bon compromis entre solidité et masse (les métaux étant trop lourd et le plastique étant trop peu rigide).
 
-![Schéma](WeightSystemSchema)
+![Schéma](WeightSystemSchema.jpg)
