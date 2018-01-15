@@ -13,7 +13,7 @@ Dans tous les cas, il faut placer au moins 4 ressorts pour faire tenir le suppor
 
 Schéma simplifié (vue de face):
 
-![vue_face](Schéma_50kg.png)
+![vue_face](Schéma_50kg1.png)
 
 Schémas avec un support circulaire:
 
