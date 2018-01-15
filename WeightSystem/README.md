@@ -10,3 +10,7 @@ On a plusieurs choix pour le support. Il peut être :
 2. De forme circulaire, moins adaptable mais plus pratique pour la forme que l'on a choisi.
 
 Dans tous les cas, il faut placer au moins 4 ressorts pour faire tenir le support. Il doit pouvoir tenir solidement, et retourner à sa position initiale lorsqu'on vide la poubelle. Les ressorts semblent être le meilleur moyen pour parvenir à ce besoin.
+
+Schéma simplifié (vue de face):
+
+![vue_face](Schéma_50kg.png)
