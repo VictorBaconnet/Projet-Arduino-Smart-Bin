@@ -1,9 +1,10 @@
-WeightSystem est un système qui nous permet de récuperer la masse d'un objet beacoup imposant que le load cell utilisé.
+WeightSystem est un système qui nous permet de récuperer la masse d'un objet beacoup plus imposant que le load cell utilisé.
 
-Le principe est très simple, on attache un "entonnoir" sur le load cell est grace a cela la masse total de l'objet dans "l'entonnoir" va être concentré sur le load cell ce qui va nous permettre d'obtenir cette valeur grace a la carte arduino.
+Voilà à quoi il ressemble (load cell):
+![loadcell](https://cdn.sparkfun.com//assets/parts/1/0/6/3/1/13331-01.jpg)
 
-Contrainte : Le materiau utilisé doit être assez rigide pour que le WeightSystem ne se déforme pas sous l'effet de la pression exercé par le poids de l'objet, l'inclinaison est donc tout aussi importante.
-Il doit avoir un poids limité pour ne pas dépasser la masse limite accepté par le load cell.
-Le bois semble être un bon compromis entre solidité et masse (les métaux étant trop lourd et le plastique étant trop peu rigide).
+L'idéal serait de poser un support sur le disque de pesage, pour pouvoir poser la poubelle dessus et ainsi bien concentrer la masse en un point, plutôt que de poser la poubelle en équilibre sur la toute petite pointe.
 
-![Schéma](WeightSystemSchema.jpg)
+On a plusieurs choix pour le support. Il peut être :
+1. De forme carrée, donc il sera possible d'y installer plusieurs types de poubelles.
+2. De forme circulaire, moins adaptable mais plus pratique pour la forme que l'on a choisi.
