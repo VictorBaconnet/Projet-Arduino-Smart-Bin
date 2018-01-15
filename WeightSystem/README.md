@@ -8,3 +8,5 @@ L'idéal serait de poser un support sur le disque de pesage, pour pouvoir poser 
 On a plusieurs choix pour le support. Il peut être :
 1. De forme carrée, donc il sera possible d'y installer plusieurs types de poubelles.
 2. De forme circulaire, moins adaptable mais plus pratique pour la forme que l'on a choisi.
+
+Dans tous les cas, il faut placer au moins 4 ressorts pour faire tenir le support. Il doit pouvoir tenir solidement, et retourner à sa position initiale lorsqu'on vide la poubelle. Les ressorts semblent être le meilleur moyen pour parvenir à ce besoin.
