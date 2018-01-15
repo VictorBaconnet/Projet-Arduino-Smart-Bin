@@ -12,8 +12,8 @@ Le WeightSystem fonctionne de la manière suivante:
 
 Figure 1:
 
-![fig1](exemplesacha.png)
+![fig1](sacvide.png)
 
 Figure 2:
 
-![fig2](sacvide.png)
+![fig2](exemplesacha.png)
