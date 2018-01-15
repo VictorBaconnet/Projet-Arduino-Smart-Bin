@@ -1,29 +1,19 @@
 WeightSystem est un système qui nous permet de récuperer la masse d'un objet beacoup plus imposant que le load cell utilisé.
 
 Voilà à quoi il ressemble (load cell):
-![loadcell](https://cdn.sparkfun.com//assets/parts/1/0/6/3/1/13331-01.jpg)
+![loadcell](https://www.robotshop.com/media/catalog/product/cache/1/image/900x900/9df78eab33525d08d6e5fb8d27136e95/m/i/micro-load-cell-20-kg.png)
 
-L'idéal serait de poser un support sur le disque de pesage, pour pouvoir poser la poubelle dessus et ainsi bien concentrer la masse en un point, plutôt que de poser la poubelle en équilibre sur la toute petite pointe.
+L'idéal serait de poser un support en dessous du sac poubelle, le tout à l'intérieur de la poubelle. Au centre du support, sur la face opposée au sac poubelle, sera placé un petit cylindre qui permettra de concentrer toute la masse en un plus petit endroit. Ce petit cylindre sera placé sur un des bords du load cell (collé).
 
-On a plusieurs choix pour le support. Il peut être :
-1. De forme carrée, donc il sera possible d'y installer plusieurs types de poubelles.
-2. De forme circulaire, moins adaptable mais plus pratique pour la forme que l'on a choisi.
+Le WeightSystem fonctionne de la manière suivante:
 
-Dans tous les cas, il faut placer au moins 4 ressorts pour faire tenir le support. Il doit pouvoir tenir solidement, et retourner à sa position initiale lorsqu'on vide la poubelle. Les ressorts semblent être le meilleur moyen pour parvenir à ce besoin.
+1. Lorsque le sac est vide, des ressorts maintiennent le support de façon à ce qu'il ne touche pas le petit cylindre.(fig1)
+2. Dés qu'on remplit le sac, les ressorts sont comprimés, et le support commence à toucher le cylindre. L'ensemble {support+sac} va exercer une pression sur le load cell, et ainsi on pourra mesurer le poids. (fig2)
 
-Schéma simplifié (vue de face):
+Figure 1:
 
-![vue_face](Schéma_50kg1.png)
+![fig1](exemplesacha.png)
 
-Schémas avec un support circulaire:
+Figure 2:
 
-![vue dessus circulaire](Schéma_50kg_circulaire_dessus.png)
-
-![vue dessous circulaire](Schéma_50kg_circulaire_dessous.png)
-
-Schémas avec un support rectangulaire:
-
-![vue dessus rectangulaire](Schéma_50kg_rectangulaire_dessus.png)
-
-![vue dessous rectangulaire](Schéma_50kg_rectangulaire_dessous.png)
-
+![fig2](sacvide.png)
