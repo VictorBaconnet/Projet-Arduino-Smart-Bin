@@ -19,3 +19,7 @@ Pendant les vacances, nous avons décidé de réaliser une poubelle intelligente
 <em>Séance 3 (Victor seul) :</em>
 
 Nous avons trouvé un moyen de peser le sac: le WeightSystem. Avec un support placé en dessous du sac poubelle, on peut, à l'aide d'un load cell et de ressorts, mesurer la masse du sac (cf dossier WeightSystem pour plus de détails).
+
+<em>Séance 3 (bis):</em>
+
+Petits changements sur le WeightSystem, il suffit de placer une plaque de plexiglas sur le load cell (avec des vis), donc on supprime les ressorts. J'ai aussi changé le schéma dans le readme du WeightSystem.
