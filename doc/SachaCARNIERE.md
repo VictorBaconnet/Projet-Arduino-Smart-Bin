@@ -10,4 +10,4 @@ Après des recherches pendant le cours nous n'avons toujours pas trouvé un suje
 Pendant les vacances de Noël nous avons décidé d'un sujet qui nous paraissait cohérent et réalisable : une poubelle connecté qui peut donner des information sur son remplissage (Poids, quantité..) et les transmettre.
 
 <em>Séance 2 (semaine 2) :<em>
-Pendant cette séance j'ai rechercher un moyen de mesurer la masse de la poubelle. Et j'ai pensé a un prototype du WeightSystem
+Pendant cette séance j'ai recherché un moyen de mesurer la masse de la poubelle. J'ai pensé a un prototype du WeightSystem et j'ai commencé à faire 
