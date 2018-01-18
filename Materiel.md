@@ -1,7 +1,7 @@
 <h1> Liste du matériel </h1>
 <ul>
   <li> <em> Support de la poubelle :<em> </li><br>
-    <p>Il existe plusieurs modèles de poubelles, de la poubelle de bureau (corbeille) aux poubelles de ville (cf images ci après).<br></p>
+    <p>Il existe plusieurs modèles de poubelles, de la poubelle de bureau (corbeille) aux poubelles de ville.<br></p>
   <li><em> Fonction "Remplissage" :</em></li><br>
   <ul>
     <li> LEDs pour le remplissage: </li>
