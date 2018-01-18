@@ -1,1 +1,1 @@
-Vous trouverez ici toutes nos présentations sur notre projet, dans l'ordre chronologique.
+Vous trouverez ici toutes les présentations de notre projet, dans l'ordre chronologique.
