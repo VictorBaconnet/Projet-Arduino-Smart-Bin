@@ -15,9 +15,7 @@
   <li> <em>Fonction "poids" :<em></li>
   <ul>
     <li> Cellule de pesage (load cell) RB-Phi-119.</li>
-    <li> Amplificateur de signal HX711. Il n'est peut être pas nécessaire, on utilise un amplificateur pour mieux détecter les variations de tension, car avec
-    la cellule seule on a seulement une variation de 5mV pour chaque bit lu. Etant donné que les toutes petites variations de poids ne nous
-    intéressent pas, ce n'est peut être pas utile. En revanche il est inclus dans la liste de matériel au cas où. </li>
+    <li> Amplificateur de signal HX711. </li>
   </ul>
   <li><em>Réception/Envoi des Informations</em>
     <ul>
