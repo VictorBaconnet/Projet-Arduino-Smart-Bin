@@ -15,6 +15,7 @@ Pendant les vacances, nous avons décidé de réaliser une poubelle intelligente
 <li> Lorsque la poubelle est remplie, elle envoie sa localisation (on imagine qu'il y a plusieurs poubelles réparties dans une ville entière), pour pouvoir la cibler directement. </li>
 <li> Si possible, un système qui permettrait de changer le sac (moteurs?). Il faudrait changer le sac si la poubelle est remplie ou si le poids dépasse un certain seuil (à fixer, il ne faut pas que la poubelle soit trop lourde ou trop difficile à déplacer).</li>
 
+
 <em>Séance 3 (Victor seul)</em>
 
 Nous avons trouvé un moyen de peser le sac: le WeightSystem. Avec un support placé en dessous du sac poubelle, on peut, à l'aide d'un load cell et de ressorts, mesurer la masse du sac (cf dossier WeightSystem pour plus de détails).
