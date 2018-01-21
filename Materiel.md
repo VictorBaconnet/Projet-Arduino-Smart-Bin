@@ -21,4 +21,6 @@
     <ul>
       <li>Carte GSM pour envoyer les informations par SMS</li>
       <li>Carte GPS pour récupérer la position du Smart-Bin</li>
+      <li>Autre alternative : Module LoRa</li>
+     
     
