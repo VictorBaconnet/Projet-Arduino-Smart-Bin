@@ -11,3 +11,11 @@ Pendant les vacances de Noël nous avons décidé d'un sujet qui nous paraissait
 
 <em>Séance 2 (semaine 2) :<em>
 Pendant cette séance j'ai recherché un moyen de mesurer la masse de la poubelle. J'ai pensé a un prototype du WeightSystem et j'ai commencé à faire 
+
+<em> Séance 3 :</em>
+
+Pendant ce cours nous avous commencé a préparer la présentation pour la séance suivante.
+
+<em> Séance 4 :</em>
+
+Présentation orale et acquisition du UCABoard, ainsi que de l'Arduino Mini Pro et du module LoRa. Nous avons commencé à regarder des exemples de code. 
