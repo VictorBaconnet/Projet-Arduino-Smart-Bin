@@ -19,3 +19,7 @@ Pendant ce cours nous avous peaufiner le WeightSystem et commencé a préparer l
 <em> Séance 4 :</em>
 
 Présentation orale et acquisition du UCABoard, ainsi que de l'Arduino Mini Pro et du module LoRa. Nous avons commencé à regarder des exemples de code. 
+
+<em> Séance 5 :</em>
+
+Pendant cette séance j'ai essayé de programmer l'Arduino Pro Mini avec le CP2102 sans succès, en effter il semble y avoir un problème avec les pins TX et RX de la carte.
