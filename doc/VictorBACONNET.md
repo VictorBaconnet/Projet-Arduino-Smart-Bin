@@ -27,3 +27,9 @@ Petits changements sur le WeightSystem, il suffit de placer une plaque de plexig
 <em> Séance 4 :</em>
 
 Présentation orale et acquisition du UCABoard, ainsi que de l'Arduino Mini Pro et du module LoRa. Nous avons commencé à regarder des exemples de code. 
+
+<em> Séance 5 </em>
+
+Objectif: Faire marcher le WeightSystem.
+
+Résultat: Succès. A des intervalles de 1000ms, on observe des mesures de masse relativement correctes. Des mesures précises et éventuels recalibrages seront effectués avec des masses de valeurs différentes (1kg, 500g...). 
