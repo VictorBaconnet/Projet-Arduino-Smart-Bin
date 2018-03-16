@@ -23,3 +23,9 @@ Présentation orale et acquisition du UCABoard, ainsi que de l'Arduino Mini Pro 
 <em> Séance 5 :</em>
 
 Pendant cette séance j'ai essayé de programmer l'Arduino Pro Mini avec le CP2102 sans succès, en effet il semble y avoir un problème avec les pins TX et RX de la carte.
+
+<em> Séance 6-7 :</em>
+
+Grace aux nouvelles soudures, les problèmes de communication entre la Arduino mini pro et l'ordinateur sont réglés.
+J'ai réussi à obtenir des valeurs pour le capteur de distance branché sur l'UCA board mais quand la distance est trop grande un 0 apparait après chaque mesure de distance.
+De plus, avec l'aide d'un encadrant, nous avons connecté notre board au "The Things Network".
