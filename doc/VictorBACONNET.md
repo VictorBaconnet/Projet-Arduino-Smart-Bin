@@ -35,5 +35,8 @@ Objectif: Faire marcher le WeightSystem.
 Résultat: Succès. A des intervalles de 1000ms, on observe des mesures de masse relativement correctes. Des mesures précises et éventuels recalibrages seront effectués avec des masses de valeurs différentes (1kg, 500g...). 
 
 <em> Séance 6 :</em>
+
 Problème des Tx/Rx réglé (cf cahier de suivi de projet de Sacha, paragraphe "Séance 5"): Soudures rééffectuées.
 Inscription sur Internet Of Things. Tentative de synchronisation de la board avec le routeur aux Templiers: échec. 
+
+Objectif: synchroniser la board, puis tester le WeightSystem et le FullBinDetector avec la board.
