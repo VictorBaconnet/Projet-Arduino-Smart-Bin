@@ -40,3 +40,9 @@ Problème des Tx/Rx réglé (cf cahier de suivi de projet de Sacha, paragraphe "
 Inscription sur Internet Of Things. Tentative de synchronisation de la board avec le routeur aux Templiers: échec. 
 
 Objectif: synchroniser la board, puis tester le WeightSystem et le FullBinDetector avec la board.
+
+<em> Séances 7/8 :</em>
+
+Inscription sur mydevices.com pour visualiser les données envoyées et pour localiser la LoRa. WeightSystem opérationnel, reste à rajouter une alerte lorsque le poids de la poubelle est supérieur à un poids défini (LED pour l'instant, puis alerte grâce à Cayenne LPP). Nouvelle idée: pouvoir verrouiller la poubelle avec une serrure à électroaimant ou simplement avec bobine + aimant, et pouvoir désactiver ce système simplement avec un relais. 
+
+Prochaine séance : présentations mi-parcours et simulation/estimations pour savoir si le système de verrouillage est viable (trop grosse consommation pour un système qui est censé être portable). Sinon, essayer de trouver un autre moyen pour verrouiller automatiquement à distance (et efficacement surtout).
