@@ -29,3 +29,13 @@ Pendant cette séance j'ai essayé de programmer l'Arduino Pro Mini avec le CP21
 Grace aux nouvelles soudures, les problèmes de communication entre la Arduino mini pro et l'ordinateur sont réglés.
 J'ai réussi à obtenir des valeurs pour le capteur de distance branché sur l'UCA board mais quand la distance est trop grande un 0 apparait après chaque mesure de distance.
 De plus, avec l'aide d'un encadrant, nous avons connecté notre board au "The Things Network".
+
+<em> Séance 8 :</em>
+
+Présentation des avancements aux encadrants.
+Bizarrement je n'obtiens plus aucune valeur avec le capteur de distance branché à l'UCA board alors que ça marche très bien avec notre carte arduino classique. Selon les recherches internet cela serait lié au fait que le HC-SR04 ne fonctionne pas en 3.3 volts.
+
+<em> Séance 8 :</em>
+
+On a eu confirmation que les problèmes avec le capteur de distances sont biens liés au voltage trop faible de la carte. Pour résoudre ce problème nous allons opter pour une alimentation 5 volts qui va etre adapté en 3.3 volts pour la carte avec la pin "RAW" et que nous pourrons utiliser pour le HC-SR04. Il faudra aussi faire un pont de diviseur de tension pour récupérer les infos en 3.3 volts sur la carte.
+J'ai aussi compris comment envoyer des données sur Cayenne mais il faut encore faire les tests.
