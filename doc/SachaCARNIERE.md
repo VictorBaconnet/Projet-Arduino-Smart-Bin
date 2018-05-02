@@ -39,3 +39,10 @@ Bizarrement je n'obtiens plus aucune valeur avec le capteur de distance branché
 
 On a eu confirmation que les problèmes avec le capteur de distances sont biens liés au voltage trop faible de la carte. Pour résoudre ce problème nous allons opter pour une alimentation 5 volts qui va etre adapté en 3.3 volts pour la carte avec la pin "RAW" et que nous pourrons utiliser pour le HC-SR04. Il faudra aussi faire un pont de diviseur de tension pour récupérer les infos en 3.3 volts sur la carte.
 J'ai aussi compris comment envoyer des données sur Cayenne mais il faut encore faire les tests.
+
+<em> Séance 9 :</em>
+
+J'ai réussi a envoyer les données obtenues par le load cell sur Cayenne, j'ai aussi commencé a prévoir l'envoi des donnés du capteur de distance et les coordonnées GPS. Calcul des valeurs des résistances pour le pont diviseur de tension pour le capteur de distance.
+
+<em> Séance 10 :</em>
+
