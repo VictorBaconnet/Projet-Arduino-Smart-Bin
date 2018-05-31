@@ -44,5 +44,6 @@ J'ai aussi compris comment envoyer des données sur Cayenne mais il faut encore 
 
 J'ai réussi a envoyer les données obtenues par le load cell sur Cayenne, j'ai aussi commencé a prévoir l'envoi des donnés du capteur de distance et les coordonnées GPS. Calcul des valeurs des résistances pour le pont diviseur de tension pour le capteur de distance.
 
-<em> Séance 10 :</em>
+<em> Finalisation </em>
 
+Divers test plutôt concluant ont été réalisé afin d'utiliser les appareils fonctionnant sous 5V exepté pour le cervo-moteur modélisant simplement la fermeture automatique de la poubelle. Le code pour envoyé toutes les données sur Cayenne fontionne, on reçoit bien les information après un cetain intervalle de temps.
