@@ -8,6 +8,7 @@ Avec la Smart Bin, l'utilisateur peut:
 1. Connaître le niveau de remplissage de la poubelle.
 2. Connaître le poids total du sac de déchets.
 3. Le tout affiché à un seul endroit, sur un ordinateur (poids, taux de remplissage en %). <a href=https://www.thethingsnetwork.org/docs/applications/cayenne/>link<a>
+4. Déverouiller la poubelle grace a un aimant (effet Hall)
 
 
 Fonctionnalités en attentes :
