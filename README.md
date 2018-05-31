@@ -11,6 +11,6 @@ Avec la Smart Bin, l'utilisateur peut:
 4. Le tout affiché à un seul endroit, sur un ordinateur (poids, taux de remplissage en %). 
 
 
-Fonctionnalités en attentes
+Fonctionnalités en attentes :
  - Recevoir des données de localisation GPS lorsque la poubelle est remplie ou que le sac est trop lourd.
  - Verrouiller automatiquement la poubelle si elle est trop lourde et/ou trop remplie.
