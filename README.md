@@ -5,10 +5,9 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
   
 La poubelle intelligente, ou Smart Bin, possède des caractéristiques qui permettent de rendre plus facile la vie des personnes qui sont responsables du maintien de la propreté dans un lieu (bâtiment, grande maison, ou même petit village...).   
 Avec la Smart Bin, l'utilisateur peut:
-1. Connaître en temps réel le poids de la poubelle.
-2. Connaître le niveau de remplissage de la poubelle.
-3. Connaître le poids total du sac de déchets.
-4. Le tout affiché à un seul endroit, sur un ordinateur (poids, taux de remplissage en %). 
+1. Connaître le niveau de remplissage de la poubelle.
+2. Connaître le poids total du sac de déchets.
+3. Le tout affiché à un seul endroit, sur un ordinateur (poids, taux de remplissage en %). 
 
 
 Fonctionnalités en attentes :
