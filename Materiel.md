@@ -3,13 +3,7 @@
   <li> <em> Support de la poubelle :<em> </li><br>
     <p>Il existe plusieurs modèles de poubelles, de la poubelle de bureau (corbeille) aux poubelles de ville.<br></p>
   <li><em> Fonction "Remplissage" :</em></li><br>
-  <ul>
-    <li> LEDs pour le remplissage: </li>
-    <ul>
-      <li> Verte x1 </li>
-      <li> Orange x2 </li>
-      <li> Rouge x1 </li><br>
-    </ul>
+
     <li> Capteur de distance HC-SR04 </li><br>
   </ul>
   <li> <em>Fonction "poids" :<em></li>
