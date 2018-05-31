@@ -8,6 +8,9 @@ Avec la Smart Bin, l'utilisateur peut:
 1. Connaître en temps réel le poids de la poubelle.
 2. Connaître le niveau de remplissage de la poubelle.
 3. Connaître le poids total du sac de déchets.
-4. Recevoir des données de localisation GPS lorsque la poubelle est remplie ou que le sac est trop lourd.
-5. Le tout affiché à un seul endroit, sur un ordinateur (poids, taux de remplissage en %). 
-6. Verrouiller automatiquement la poubelle si elle est trop lourde et/ou trop remplie.
+4. Le tout affiché à un seul endroit, sur un ordinateur (poids, taux de remplissage en %). 
+
+
+Fonctionnalités en attentes
+ - Recevoir des données de localisation GPS lorsque la poubelle est remplie ou que le sac est trop lourd.
+ - Verrouiller automatiquement la poubelle si elle est trop lourde et/ou trop remplie.
