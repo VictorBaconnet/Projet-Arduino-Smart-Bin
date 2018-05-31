@@ -53,4 +53,8 @@ Présentation mi-parcours. Abandon du système de verrouillage avec électroaima
 
 <em> Séance 10 : </em>
 
-Recherche de poubelle sur Internet, contenance maximale environ 3L, en plastique, si besoin de faire des perçages. 
+Recherche de poubelle sur Internet, contenance maximale environ 3L, en plastique, si besoin de faire des perçages. Finalement, pour le verrouillage j'ai décidé d'utiliser un système similaire à la bielle manivelle, avec un servo moteur. Je pense à réaliser cette fonction avec des pièces Lego Technic. Pour ouvrir la poubelle si elle est verrouillée, j'utilise un capteur à effet hall et un aimant.
+
+<em> Travail personnel :</em>
+
+En résumé, j'ai réussi à faire marcher le système de verrouillage avec le capteur de poids, le capteur de distance, et le capteur à effet Hall, mais seulement sur la carte Arduino Nano (Atmel ATmega328p). Nous avons réussi (un peu trop tard) à faire fonctionner le capteur de distance et à récupérer les données, pour les envoyer sur Internet Of Things.
